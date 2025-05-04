@@ -24,6 +24,11 @@ font-family: "Lato" sans-serif;
     transition: 0.6s ease-out;
 
 }
+
+.weath{
+    color: grey;
+    margin-bottom: 20px;
+}
 .search-box{
     width: 100%;
     display: flex;
